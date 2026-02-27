@@ -1,5 +1,4 @@
 # hello-world
-hello world intro to github
 
 Cloud/DevOps Engineer with a BE, PhD, and HDip, bringing strong expertise in semiconductor process & yield engineering and modern cloud/CI‑CD ecosystems.  
 
